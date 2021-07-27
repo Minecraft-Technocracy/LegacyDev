@@ -24,6 +24,7 @@ import joptsimple.OptionParser;
 import joptsimple.OptionSet;
 import net.minecraftforge.gradle.GradleForgeHacks;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Field;
